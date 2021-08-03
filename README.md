@@ -1,7 +1,7 @@
 # :raising_hand_man: About me
 Junior Front-end developer @cibkol
 ## Technical Stack
-- JavaScript ES6
+- JavaScript 
 - React
 - TypeScript
 - Redux
