@@ -1,11 +1,17 @@
-- 👋 Hi, I’m @cibkol
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-<div style={background-color: red} >wefkl </div>
+# :raising_hand_man: About me
+Junior Front-end developer @cibkol
+## Technical Stack
+- JavaScript ES6
+- React
+- TypeScript
+- Redux
+- HTML
+- CSS
 
-<!---
-cibkol/cibkol is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+## General GitHub activity:
+<p align='center'>
+   <a href="https://github-readme-stats.vercel.app/api?username=romankh3&show_icons=true&count_private=true">
+       <img height=150 src="https://github-readme-stats.vercel.app/api?username=cibkol&show_icons=true&count_private=true"/></a>
+   <a href="https://github.com/romankh3/github-readme-stats">
+       <img height=150 src="https://github-readme-stats.vercel.app/api/top-langs/?username=cibkol&layout=compact"/></a>
+</p>
