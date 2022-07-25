@@ -1,1 +1,1 @@
-Stack: ts mobx react
+
